@@ -1,0 +1,2 @@
+Hello even9ng class, this is concept of callback function
+callback is an synchronized equivalent of a function
